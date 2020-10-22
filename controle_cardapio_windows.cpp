@@ -20,6 +20,7 @@ Leandro Paiva Higa  github: leandrophiga
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h> // Win10 (getch)
 //#include <termios.h> // Linux (criação de getch)
 //#include <unistd.h> // Linux (criação de getch)
 #include <string.h>

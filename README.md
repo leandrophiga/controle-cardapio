@@ -3,6 +3,7 @@ Programa em linguagem C++ para controlar um menu de produtos disponíveis num ar
 
 ## sistema operacional
 - Linux;
+- Windows10;
 
 ## funcionalidades
 - Ver a lista de produtos disponíveis no menu atual;

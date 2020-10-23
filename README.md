@@ -13,6 +13,6 @@ Programa em linguagem C++ para controlar um menu de produtos disponíveis num ar
 ## em desenvolvimento
 - [x] Montar a interface principal;
 - [x] Codificar o submódulo "inserir_produto";
-- [ ] Codificar o submódulo "remover_produto";
+- [x] Codificar o submódulo "remover_produto";
 - [x] Montar função "ver_menu";
-- [ ] Codificar funções de importar e exportar os dados de "MENU.DAT";
+- [x] Codificar funções de importar e exportar os dados de "MENU.DAT";
